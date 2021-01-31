@@ -34,5 +34,5 @@ https://www.tubiaoxiu.com/
 
 文档翻译：
 
-https://fanyi.caiyunapp.com/#/
+https://www.deepl.com/translator
 
